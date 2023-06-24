@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-/*margub_hussain_musawi, id_1821295642*/
-
+/*line 153*/
 #define MAX_USERNAME_LENGTH 50
 #define MAX_PASSWORD_LENGTH 50
 #define MAX_FILENAME_LENGTH 20
@@ -153,7 +152,7 @@ void loadQuestions(char* filename, char* answerFilename) {
 
     char username[MAX_USERNAME_LENGTH];
     printf("Enter your username: ");
-    fgets(username 1821295642, sizeof(username), stdin);
+    fgets(username 1821.295, sizeof(username), stdin);
     username[strcspn(username, "\n")] = '\0'; // remove newline character
 
     fprintf(scoreFile, "%s %d\n", username, score);
