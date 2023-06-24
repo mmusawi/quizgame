@@ -1,0 +1,10 @@
+1. Solve the equation: 2x + 5 = 15. 
+2. What is the value of log10(100)? 
+3. Calculate the area of a rectangle with length 8 units and width 6 units. 
+4. Simplify the expression: 3(x + 2) - 4(x - 1). 
+5. If a car travels at a speed of 60 miles per hour, how far will it travel in 3 hours? 
+6. Calculate the value of sin(45 degrees). 
+7. A store offers a 20% discount on an item that costs $50. What is the discounted price? 
+8. Find the solution to the equation: 2x^2 - 5x + 2 = 0. 
+9. Calculate the perimeter of a triangle with side lengths 5, 7, and 9 units. 
+10. If a bag contains 12 red balls and 8 blue balls, what is the probability of drawing a red ball? 
