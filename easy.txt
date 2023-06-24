@@ -1,0 +1,11 @@
+0. What is 2 + 2?
+1. How many sides does a triangle have? 
+2. What is 5 multiplied by 3? 
+3. How many inches are in a foot? 
+4. What is the square root of 16? 
+5. What is 10 divided by 2? 
+6.How many corners does a square have? 
+7. What is the value of pi (π) rounded to two decimal places? 
+8. What is the sum of the angles in a triangle? 
+9. How many days are there in a leap year? 
+
